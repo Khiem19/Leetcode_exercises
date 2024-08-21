@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/Khiem19/Leetcode_exercises/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Khiem19/Leetcode_exercises/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Khiem19/Leetcode_exercises/tree/master/0412-fizz-buzz) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Khiem19/Leetcode_exercises/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
