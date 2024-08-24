@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Khiem19/Leetcode_exercises/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Khiem19/Leetcode_exercises/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Khiem19/Leetcode_exercises/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Khiem19/Leetcode_exercises/tree/master/0344-reverse-string) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Khiem19/Leetcode_exercises/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Khiem19/Leetcode_exercises/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
