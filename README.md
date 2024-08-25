@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Khiem19/Leetcode_exercises/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khiem19/Leetcode_exercises/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Khiem19/Leetcode_exercises/tree/master/0027-remove-element) |
+| [0303-range-sum-query-immutable](https://github.com/Khiem19/Leetcode_exercises/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Khiem19/Leetcode_exercises/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Khiem19/Leetcode_exercises/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Khiem19/Leetcode_exercises/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
