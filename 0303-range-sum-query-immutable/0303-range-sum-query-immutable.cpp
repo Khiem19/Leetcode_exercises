@@ -16,6 +16,7 @@
 //     }
 // };
 
+
 class NumArray {
 public:
     vector<int> memo = {0};
@@ -26,7 +27,8 @@ public:
             memo.push_back(sum);
         }
     }
-
+    
+    // sumRange(2, 4)=prefixSums[5]−prefixSums[2]
     int sumRange(int left, int right) {
         return memo[right+1] - memo[left];
     }
