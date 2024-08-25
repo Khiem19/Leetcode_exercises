@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Khiem19/Leetcode_exercises/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Khiem19/Leetcode_exercises/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Khiem19/Leetcode_exercises/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/1013-fibonacci-number) |
@@ -73,9 +74,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Khiem19/Leetcode_exercises/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Khiem19/Leetcode_exercises/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
