@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/Khiem19/Leetcode_exercises/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Khiem19/Leetcode_exercises/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Khiem19/Leetcode_exercises/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Khiem19/Leetcode_exercises/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
