@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Khiem19/Leetcode_exercises/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khiem19/Leetcode_exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/Khiem19/Leetcode_exercises/tree/master/0303-range-sum-query-immutable) |
+| [0747-min-cost-climbing-stairs](https://github.com/Khiem19/Leetcode_exercises/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Khiem19/Leetcode_exercises/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khiem19/Leetcode_exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/Khiem19/Leetcode_exercises/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
