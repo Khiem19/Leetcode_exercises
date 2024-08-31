@@ -1,21 +1,26 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        for(auto& it : s) {
-            it = tolower(it);
+        string t;
+        for(const auto& it : s){
+            if(it >= 'A' && it <= 'Z')
+                t.push_back(it -'A' + 'a');
+            else if(it >= 'a' && it <= 'z')
+                t.push_back(it);
+            else if(it >= '0' && it <= '9')
+                t.push_back(it);
         }
 
-        // Remove non-alphanumeric characters
-        s.erase(remove_if(s.begin(), s.end(), [](char c) {
-            return !isalnum(c);  // Check if character is not alphanumeric
-        }), s.end());
+        int left = 0;
+        int right = t.size() - 1;
 
-        if(s.empty()) {
-            return true;
+        while(left < right) {
+            if(t[left] != t[right])
+                return false;
+            left++;
+            right--;
         }
-        string reversed = s;
-        reverse(s.begin(), s.end());
-        
-        return s == reversed;
+
+        return true;
     }
 };
