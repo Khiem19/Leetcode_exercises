@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Khiem19/Leetcode_exercises/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Khiem19/Leetcode_exercises/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Khiem19/Leetcode_exercises/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Khiem19/Leetcode_exercises/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Khiem19/Leetcode_exercises/tree/master/0412-fizz-buzz) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khiem19/Leetcode_exercises/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Khiem19/Leetcode_exercises/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Khiem19/Leetcode_exercises/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Khiem19/Leetcode_exercises/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khiem19/Leetcode_exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/Khiem19/Leetcode_exercises/tree/master/0303-range-sum-query-immutable) |
 | [0747-min-cost-climbing-stairs](https://github.com/Khiem19/Leetcode_exercises/tree/master/0747-min-cost-climbing-stairs) |
