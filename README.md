@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Khiem19/Leetcode_exercises/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khiem19/Leetcode_exercises/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Khiem19/Leetcode_exercises/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Khiem19/Leetcode_exercises/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khiem19/Leetcode_exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/Khiem19/Leetcode_exercises/tree/master/0303-range-sum-query-immutable) |
 | [0747-min-cost-climbing-stairs](https://github.com/Khiem19/Leetcode_exercises/tree/master/0747-min-cost-climbing-stairs) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Khiem19/Leetcode_exercises/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Khiem19/Leetcode_exercises/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Khiem19/Leetcode_exercises/tree/master/0226-invert-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Khiem19/Leetcode_exercises/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
