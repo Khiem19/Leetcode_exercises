@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Khiem19/Leetcode_exercises/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Khiem19/Leetcode_exercises/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Khiem19/Leetcode_exercises/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Khiem19/Leetcode_exercises/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khiem19/Leetcode_exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/Khiem19/Leetcode_exercises/tree/master/0303-range-sum-query-immutable) |
 | [0747-min-cost-climbing-stairs](https://github.com/Khiem19/Leetcode_exercises/tree/master/0747-min-cost-climbing-stairs) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khiem19/Leetcode_exercises/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Khiem19/Leetcode_exercises/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Khiem19/Leetcode_exercises/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Khiem19/Leetcode_exercises/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Khiem19/Leetcode_exercises/tree/master/0344-reverse-string) |
 ## String
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Khiem19/Leetcode_exercises/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Khiem19/Leetcode_exercises/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
